@@ -1,0 +1,8 @@
+C:\Users\lmmelo1\source\repos\AprendendoCSharp\-PimeiroProjeto\bin\Debug\-PimeiroProjeto.exe.config
+C:\Users\lmmelo1\source\repos\AprendendoCSharp\-PimeiroProjeto\bin\Debug\-PimeiroProjeto.exe
+C:\Users\lmmelo1\source\repos\AprendendoCSharp\-PimeiroProjeto\bin\Debug\-PimeiroProjeto.pdb
+C:\Users\lmmelo1\source\repos\AprendendoCSharp\-PimeiroProjeto\obj\Debug\-PimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\lmmelo1\source\repos\AprendendoCSharp\-PimeiroProjeto\obj\Debug\-PimeiroProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\lmmelo1\source\repos\AprendendoCSharp\-PimeiroProjeto\obj\Debug\-PimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\lmmelo1\source\repos\AprendendoCSharp\-PimeiroProjeto\obj\Debug\-PimeiroProjeto.exe
+C:\Users\lmmelo1\source\repos\AprendendoCSharp\-PimeiroProjeto\obj\Debug\-PimeiroProjeto.pdb

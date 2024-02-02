@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDeDados", "..\SaidaDeD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercioSaidaDeDados", "..\ExercioSaidaDeDados\ExercioSaidaDeDados.csproj", "{567E97FD-C920-4178-9107-74A0681AC312}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{1124F281-39CA-4188-8CAA-A261C28EA57C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{1124F281-39CA-4188-8CAA-A261C28EA57C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarefaProposta2EntradaDeDados", "TarefaProposta2EntradaDeDados\TarefaProposta2EntradaDeDados.csproj", "{6374CC2B-6B4C-4A9A-A110-37649E42EC84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1124F281-39CA-4188-8CAA-A261C28EA57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1124F281-39CA-4188-8CAA-A261C28EA57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1124F281-39CA-4188-8CAA-A261C28EA57C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6374CC2B-6B4C-4A9A-A110-37649E42EC84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6374CC2B-6B4C-4A9A-A110-37649E42EC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6374CC2B-6B4C-4A9A-A110-37649E42EC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6374CC2B-6B4C-4A9A-A110-37649E42EC84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

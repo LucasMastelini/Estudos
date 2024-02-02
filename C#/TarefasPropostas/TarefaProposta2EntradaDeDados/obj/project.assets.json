@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\Estudos\\C#\\TarefasPropostas\\EntradaDeDados\\EntradaDeDados.csproj",
-      "projectName": "EntradaDeDados",
-      "projectPath": "C:\\GIT\\Estudos\\C#\\TarefasPropostas\\EntradaDeDados\\EntradaDeDados.csproj",
+      "projectUniqueName": "C:\\GIT\\Estudos\\C#\\TarefasPropostas\\TarefaProposta2EntradaDeDados\\TarefaProposta2EntradaDeDados.csproj",
+      "projectName": "TarefaProposta2EntradaDeDados",
+      "projectPath": "C:\\GIT\\Estudos\\C#\\TarefasPropostas\\TarefaProposta2EntradaDeDados\\TarefaProposta2EntradaDeDados.csproj",
       "packagesPath": "C:\\Users\\lmmelo1\\.nuget\\packages\\",
-      "outputPath": "C:\\GIT\\Estudos\\C#\\TarefasPropostas\\EntradaDeDados\\obj\\",
+      "outputPath": "C:\\GIT\\Estudos\\C#\\TarefasPropostas\\TarefaProposta2EntradaDeDados\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lmmelo1\\AppData\\Roaming\\NuGet\\NuGet.Config",

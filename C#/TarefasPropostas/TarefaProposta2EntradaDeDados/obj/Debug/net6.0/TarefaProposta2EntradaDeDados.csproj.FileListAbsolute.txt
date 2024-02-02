@@ -1,0 +1,15 @@
+C:\GIT\Estudos\C#\TarefasPropostas\TarefaProposta2EntradaDeDados\bin\Debug\net6.0\TarefaProposta2EntradaDeDados.exe
+C:\GIT\Estudos\C#\TarefasPropostas\TarefaProposta2EntradaDeDados\bin\Debug\net6.0\TarefaProposta2EntradaDeDados.deps.json
+C:\GIT\Estudos\C#\TarefasPropostas\TarefaProposta2EntradaDeDados\bin\Debug\net6.0\TarefaProposta2EntradaDeDados.runtimeconfig.json
+C:\GIT\Estudos\C#\TarefasPropostas\TarefaProposta2EntradaDeDados\bin\Debug\net6.0\TarefaProposta2EntradaDeDados.dll
+C:\GIT\Estudos\C#\TarefasPropostas\TarefaProposta2EntradaDeDados\bin\Debug\net6.0\TarefaProposta2EntradaDeDados.pdb
+C:\GIT\Estudos\C#\TarefasPropostas\TarefaProposta2EntradaDeDados\obj\Debug\net6.0\TarefaProposta2EntradaDeDados.csproj.AssemblyReference.cache
+C:\GIT\Estudos\C#\TarefasPropostas\TarefaProposta2EntradaDeDados\obj\Debug\net6.0\TarefaProposta2EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Estudos\C#\TarefasPropostas\TarefaProposta2EntradaDeDados\obj\Debug\net6.0\TarefaProposta2EntradaDeDados.AssemblyInfoInputs.cache
+C:\GIT\Estudos\C#\TarefasPropostas\TarefaProposta2EntradaDeDados\obj\Debug\net6.0\TarefaProposta2EntradaDeDados.AssemblyInfo.cs
+C:\GIT\Estudos\C#\TarefasPropostas\TarefaProposta2EntradaDeDados\obj\Debug\net6.0\TarefaProposta2EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\GIT\Estudos\C#\TarefasPropostas\TarefaProposta2EntradaDeDados\obj\Debug\net6.0\TarefaProposta2EntradaDeDados.dll
+C:\GIT\Estudos\C#\TarefasPropostas\TarefaProposta2EntradaDeDados\obj\Debug\net6.0\refint\TarefaProposta2EntradaDeDados.dll
+C:\GIT\Estudos\C#\TarefasPropostas\TarefaProposta2EntradaDeDados\obj\Debug\net6.0\TarefaProposta2EntradaDeDados.pdb
+C:\GIT\Estudos\C#\TarefasPropostas\TarefaProposta2EntradaDeDados\obj\Debug\net6.0\TarefaProposta2EntradaDeDados.genruntimeconfig.cache
+C:\GIT\Estudos\C#\TarefasPropostas\TarefaProposta2EntradaDeDados\obj\Debug\net6.0\ref\TarefaProposta2EntradaDeDados.dll
