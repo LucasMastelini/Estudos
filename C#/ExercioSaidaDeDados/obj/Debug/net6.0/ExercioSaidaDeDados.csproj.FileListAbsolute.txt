@@ -1,0 +1,5 @@
+C:\Users\lmmelo1\source\repos\ExercioSaidaDeDados\obj\Debug\net6.0\ExercioSaidaDeDados.csproj.AssemblyReference.cache
+C:\Users\lmmelo1\source\repos\ExercioSaidaDeDados\obj\Debug\net6.0\ExercioSaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmmelo1\source\repos\ExercioSaidaDeDados\obj\Debug\net6.0\ExercioSaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\lmmelo1\source\repos\ExercioSaidaDeDados\obj\Debug\net6.0\ExercioSaidaDeDados.AssemblyInfo.cs
+C:\Users\lmmelo1\source\repos\ExercioSaidaDeDados\obj\Debug\net6.0\ExercioSaidaDeDados.csproj.CoreCompileInputs.cache

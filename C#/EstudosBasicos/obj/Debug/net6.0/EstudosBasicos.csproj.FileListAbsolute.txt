@@ -1,0 +1,15 @@
+C:\Users\lmmelo1\source\repos\EstudosBasicos\bin\Debug\net6.0\EstudosBasicos.exe
+C:\Users\lmmelo1\source\repos\EstudosBasicos\bin\Debug\net6.0\EstudosBasicos.deps.json
+C:\Users\lmmelo1\source\repos\EstudosBasicos\bin\Debug\net6.0\EstudosBasicos.runtimeconfig.json
+C:\Users\lmmelo1\source\repos\EstudosBasicos\bin\Debug\net6.0\EstudosBasicos.dll
+C:\Users\lmmelo1\source\repos\EstudosBasicos\bin\Debug\net6.0\EstudosBasicos.pdb
+C:\Users\lmmelo1\source\repos\EstudosBasicos\obj\Debug\net6.0\EstudosBasicos.csproj.AssemblyReference.cache
+C:\Users\lmmelo1\source\repos\EstudosBasicos\obj\Debug\net6.0\EstudosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmmelo1\source\repos\EstudosBasicos\obj\Debug\net6.0\EstudosBasicos.AssemblyInfoInputs.cache
+C:\Users\lmmelo1\source\repos\EstudosBasicos\obj\Debug\net6.0\EstudosBasicos.AssemblyInfo.cs
+C:\Users\lmmelo1\source\repos\EstudosBasicos\obj\Debug\net6.0\EstudosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\lmmelo1\source\repos\EstudosBasicos\obj\Debug\net6.0\EstudosBasicos.dll
+C:\Users\lmmelo1\source\repos\EstudosBasicos\obj\Debug\net6.0\refint\EstudosBasicos.dll
+C:\Users\lmmelo1\source\repos\EstudosBasicos\obj\Debug\net6.0\EstudosBasicos.pdb
+C:\Users\lmmelo1\source\repos\EstudosBasicos\obj\Debug\net6.0\EstudosBasicos.genruntimeconfig.cache
+C:\Users\lmmelo1\source\repos\EstudosBasicos\obj\Debug\net6.0\ref\EstudosBasicos.dll

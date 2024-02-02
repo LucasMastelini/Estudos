@@ -1,0 +1,15 @@
+C:\Users\lmmelo1\source\repos\TarefasPropostas\bin\Debug\net6.0\TarefasPropostas.exe
+C:\Users\lmmelo1\source\repos\TarefasPropostas\bin\Debug\net6.0\TarefasPropostas.deps.json
+C:\Users\lmmelo1\source\repos\TarefasPropostas\bin\Debug\net6.0\TarefasPropostas.runtimeconfig.json
+C:\Users\lmmelo1\source\repos\TarefasPropostas\bin\Debug\net6.0\TarefasPropostas.dll
+C:\Users\lmmelo1\source\repos\TarefasPropostas\bin\Debug\net6.0\TarefasPropostas.pdb
+C:\Users\lmmelo1\source\repos\TarefasPropostas\obj\Debug\net6.0\TarefasPropostas.csproj.AssemblyReference.cache
+C:\Users\lmmelo1\source\repos\TarefasPropostas\obj\Debug\net6.0\TarefasPropostas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmmelo1\source\repos\TarefasPropostas\obj\Debug\net6.0\TarefasPropostas.AssemblyInfoInputs.cache
+C:\Users\lmmelo1\source\repos\TarefasPropostas\obj\Debug\net6.0\TarefasPropostas.AssemblyInfo.cs
+C:\Users\lmmelo1\source\repos\TarefasPropostas\obj\Debug\net6.0\TarefasPropostas.csproj.CoreCompileInputs.cache
+C:\Users\lmmelo1\source\repos\TarefasPropostas\obj\Debug\net6.0\TarefasPropostas.dll
+C:\Users\lmmelo1\source\repos\TarefasPropostas\obj\Debug\net6.0\refint\TarefasPropostas.dll
+C:\Users\lmmelo1\source\repos\TarefasPropostas\obj\Debug\net6.0\TarefasPropostas.pdb
+C:\Users\lmmelo1\source\repos\TarefasPropostas\obj\Debug\net6.0\TarefasPropostas.genruntimeconfig.cache
+C:\Users\lmmelo1\source\repos\TarefasPropostas\obj\Debug\net6.0\ref\TarefasPropostas.dll
